@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "dcb78aae",
         "name": "com.DefaultCompany.RoboticsARExamples",
-        "processId": 3585,
+        "processId": 8660,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -42,6 +42,18 @@
             "deviceId": "dcb78aae",
             "name": "com.DefaultCompany.RoboticsARExamples",
             "processId": 3585,
+            "exited": false
+        },
+        {
+            "deviceId": "dcb78aae",
+            "name": "com.DefaultCompany.RoboticsARExamples",
+            "processId": 8100,
+            "exited": false
+        },
+        {
+            "deviceId": "dcb78aae",
+            "name": "com.DefaultCompany.RoboticsARExamples",
+            "processId": 8660,
             "exited": false
         }
     ],

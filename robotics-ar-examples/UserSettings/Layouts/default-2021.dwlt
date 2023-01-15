@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 1720
+    x: 1719
     y: 53
     width: 1720
     height: 1302
@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 200}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 172
+  controlID: 18
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -94,8 +94,8 @@ MonoBehaviour:
     y: 0
     width: 491
     height: 1252
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -203,7 +203,7 @@ MonoBehaviour:
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
-  m_LastLoadedLayoutName: DefaultLayout
+  m_LastLoadedLayoutName: 
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -249,7 +249,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 173
+  controlID: 19
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -275,7 +275,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
-  controlID: 174
+  controlID: 20
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -353,7 +353,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1720
+    x: 1719
     y: 886
     width: 1228
     height: 428
@@ -374,22 +374,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: /Users/tobiasbauernfeind/Code/Unity/RoboticsARExamples
+  m_LastProjectPath: /Users/tobiasbauernfeind/Code/Unity/augmented-reality-lecture/robotics-ar-examples
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: d6720000
-    m_LastClickedID: 29398
-    m_ExpandedIDs: 00000000d07200005a7b000000ca9a3b
+    m_SelectedIDs: 6a670000
+    m_LastClickedID: 26474
+    m_ExpandedIDs: 000000006a67000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -417,7 +417,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000d072000000ca9a3b
+    m_ExpandedIDs: 000000006a670000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -444,7 +444,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -494,7 +494,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 2949
+    x: 2948
     y: 83
     width: 490
     height: 1231
@@ -536,7 +536,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1720
+    x: 1719
     y: 83
     width: 300
     height: 782
@@ -549,7 +549,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 5429ffffa429ffff642cffff6a2effffba2effff7a31ffff0635ffff5635ffff1438ffff6e42ffffbe42ffff7e45fffff447ffff4448ffff044bffff944dffffe44dffffa650ffff6a53ffffba53ffff7c56fffff657ffff4658ffff085bffff805cffffd05cffff925fffff3861ffff8861ffff4a64ffff5466ffffa466ffff6669ffffde6affff2e6bfffff06dffffa86ffffff86fffffba72ffffc074ffff1075ffffd277ffffa879fffff879ffffba7cffffb67fffff0680ffffc882ffff5885ffffa885ffff6a88ffff788affffc88affff8a8dffff488fffff988fffff5a92ffff0a98ffff5a98ffff209bffffa09cfffff09cffffb69fffffd6a8ffffdaa8ffffdeb2ffff36bbffff84bbffff86bbffff88cfffffd6cfffffaed1ffff4ad3ffff98d3ffff70d5ffffd6d6ffff22d7fffffad8ffffccdeffff40dfffffd6eaffffd0fbffff12a000005ca0000080a20000caa20000aaa40000f4a40000d8a6000022a7000002a900004ca9000080af0000caaf000084b10000aab10000f4b1000000b2000006bd000050bd0000bebf00002ec40000
+      m_ExpandedIDs: d6f3ffff26f4ffffe0f4ffffa8f5fffff6f5ffff74f8ffff2efbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -594,7 +594,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 2021
+    x: 2020
     y: 83
     width: 581
     height: 782
@@ -933,7 +933,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 2604
+    x: 2603
     y: 83
     width: 343
     height: 782
