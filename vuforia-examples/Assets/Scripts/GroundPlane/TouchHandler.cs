@@ -53,6 +53,7 @@ public class TouchHandler : MonoBehaviour
 
     void Update()
     {
+
         if (Input.touchCount == 2)
         {
             GetTouchAngleAndDistance(Input.GetTouch(0), Input.GetTouch(1),
@@ -72,7 +73,7 @@ public class TouchHandler : MonoBehaviour
 
             if (mEnableRotation)
                 AugmentationObject.localEulerAngles = mCachedAugmentationRotation - new Vector3(0, angleDelta * 3f, 0);
-            
+
             // Optional Pinch Scaling can be enabled via Inspector for this Script Component
             if (mEnableRotation && EnablePinchScaling)
                 AugmentationObject.localScale = new Vector3(scaleAmountClamped, scaleAmountClamped, scaleAmountClamped);

@@ -3,39 +3,51 @@
     "m_SelectedPackage": {
         "deviceId": "dcb78aae",
         "name": "com.TobisARLectures.vuforiaexamples",
-        "processId": 10825,
+        "processId": 30088,
         "exited": false
     },
     "m_SelectedPriority": 0,
     "m_KnownPackagesForSerialization": [
         {
             "deviceId": "dcb78aae",
+            "name": "com.android.launcher",
+            "processId": 3745,
+            "exited": false
+        },
+        {
+            "deviceId": "dcb78aae",
             "name": "com.TobisARLectures.vuforiaexamples",
-            "processId": 4626,
+            "processId": 26406,
             "exited": true
         },
         {
             "deviceId": "dcb78aae",
             "name": "com.TobisARLectures.vuforiaexamples",
-            "processId": 5516,
+            "processId": 27052,
             "exited": true
         },
         {
             "deviceId": "dcb78aae",
             "name": "com.TobisARLectures.vuforiaexamples",
-            "processId": 9633,
+            "processId": 27724,
             "exited": true
         },
         {
             "deviceId": "dcb78aae",
             "name": "com.TobisARLectures.vuforiaexamples",
-            "processId": 10103,
+            "processId": 28724,
             "exited": true
         },
         {
             "deviceId": "dcb78aae",
             "name": "com.TobisARLectures.vuforiaexamples",
-            "processId": 10825,
+            "processId": 29463,
+            "exited": false
+        },
+        {
+            "deviceId": "dcb78aae",
+            "name": "com.TobisARLectures.vuforiaexamples",
+            "processId": 30088,
             "exited": false
         }
     ],
