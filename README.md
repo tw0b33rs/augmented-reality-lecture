@@ -17,7 +17,7 @@ The lecture is being taught at the [University of Applied Sciences Upper Austria
 
 # Detailed description of provided examples
 
-Most examples are based on the [Vuforia Engine](https://library.vuforia.com/), since this library provides one of the convenients ways of getting started with Augmented Reality applications. However, some examples are based on the [AR Foundation](https://unity.com/unity/features/arfoundation) framework.
+Most examples are based on the [Vuforia Engine](https://library.vuforia.com/), since this library provides one of the best ways of getting started with Augmented Reality development. However, some examples are based on the [AR Foundation](https://unity.com/unity/features/arfoundation) framework.
 
 ## Vuforia Engine
 

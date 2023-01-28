@@ -3,39 +3,39 @@
     "m_SelectedPackage": {
         "deviceId": "dcb78aae",
         "name": "com.TobisARLectures.vuforiaexamples",
-        "processId": 20932,
+        "processId": 18626,
         "exited": false
     },
     "m_SelectedPriority": 0,
     "m_KnownPackagesForSerialization": [
         {
             "deviceId": "dcb78aae",
-            "name": "com.DefaultCompany.vuforiaexamples",
-            "processId": 15302,
-            "exited": true
-        },
-        {
-            "deviceId": "dcb78aae",
-            "name": "com.TobisARLectures.vuforiaexamples",
-            "processId": 16296,
-            "exited": true
-        },
-        {
-            "deviceId": "dcb78aae",
-            "name": "com.TobisARLectures.vuforiaexamples",
-            "processId": 17026,
-            "exited": true
-        },
-        {
-            "deviceId": "dcb78aae",
-            "name": "com.TobisARLectures.vuforiaexamples",
-            "processId": 17794,
-            "exited": true
-        },
-        {
-            "deviceId": "dcb78aae",
             "name": "com.TobisARLectures.vuforiaexamples",
             "processId": 20932,
+            "exited": true
+        },
+        {
+            "deviceId": "dcb78aae",
+            "name": "com.TobisARLectures.vuforiaexamples",
+            "processId": 14710,
+            "exited": true
+        },
+        {
+            "deviceId": "dcb78aae",
+            "name": "com.TobisARLectures.vuforiaexamples",
+            "processId": 17114,
+            "exited": true
+        },
+        {
+            "deviceId": "dcb78aae",
+            "name": "com.TobisARLectures.vuforiaexamples",
+            "processId": 17612,
+            "exited": true
+        },
+        {
+            "deviceId": "dcb78aae",
+            "name": "com.TobisARLectures.vuforiaexamples",
+            "processId": 18626,
             "exited": false
         }
     ],
