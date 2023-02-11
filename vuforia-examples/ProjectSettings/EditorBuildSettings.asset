@@ -4,5 +4,38 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/99-Menu.unity
+    guid: 1fcc704674733487a901a6bcd1074262
+  - enabled: 1
+    path: Assets/Scenes/0-SceneRecorder.unity
+    guid: 9be9f9713b2fe48e4a40b6f6947bdd01
+  - enabled: 1
+    path: Assets/Scenes/1-InstantImageTarget.unity
+    guid: 6394d4701ffc540beac151edc5ca1973
+  - enabled: 1
+    path: Assets/Scenes/2-MultipleImageTargets.unity
+    guid: 16c6e138f0fba4d84a7397d3484c1142
+  - enabled: 1
+    path: Assets/Scenes/3-ModelTargets.unity
+    guid: 421f501bbc5ee425c9a55e71891ed263
+  - enabled: 1
+    path: Assets/Scenes/4-AreaTarget.unity
+    guid: 7b46b6e3fc69f4069924dfee3169861e
+  - enabled: 1
+    path: Assets/Scenes/5-AreaTargetNavigation.unity
+    guid: 3f585d51ed11343488842f20dba24603
+  - enabled: 1
+    path: Assets/Scenes/6-GroundPlaneSimple.unity
+    guid: e8192ad09a38f463cab642fb35327d28
+  - enabled: 1
+    path: Assets/Scenes/7-GroundPlaneChair.unity
+    guid: 584faefc591344e03982380b84eeead8
+  - enabled: 1
+    path: Assets/Scenes/8-GroundPlaneRobot.unity
+    guid: df957f15aada14c0f95778c66d365404
+  - enabled: 1
+    path: Assets/Scenes/9-GroundPlaneRobotMovement.unity
+    guid: 9169818ccff6d4143bf5c45f56333297
   m_configObjects: {}

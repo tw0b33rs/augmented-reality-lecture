@@ -3,51 +3,39 @@
     "m_SelectedPackage": {
         "deviceId": "dcb78aae",
         "name": "com.TobisARLectures.vuforiaexamples",
-        "processId": 30088,
+        "processId": 13890,
         "exited": false
     },
     "m_SelectedPriority": 0,
     "m_KnownPackagesForSerialization": [
         {
             "deviceId": "dcb78aae",
-            "name": "com.android.launcher",
-            "processId": 3745,
-            "exited": false
-        },
-        {
-            "deviceId": "dcb78aae",
-            "name": "com.TobisARLectures.vuforiaexamples",
-            "processId": 26406,
-            "exited": true
-        },
-        {
-            "deviceId": "dcb78aae",
-            "name": "com.TobisARLectures.vuforiaexamples",
-            "processId": 27052,
-            "exited": true
-        },
-        {
-            "deviceId": "dcb78aae",
-            "name": "com.TobisARLectures.vuforiaexamples",
-            "processId": 27724,
-            "exited": true
-        },
-        {
-            "deviceId": "dcb78aae",
-            "name": "com.TobisARLectures.vuforiaexamples",
-            "processId": 28724,
-            "exited": true
-        },
-        {
-            "deviceId": "dcb78aae",
-            "name": "com.TobisARLectures.vuforiaexamples",
-            "processId": 29463,
-            "exited": false
-        },
-        {
-            "deviceId": "dcb78aae",
             "name": "com.TobisARLectures.vuforiaexamples",
             "processId": 30088,
+            "exited": true
+        },
+        {
+            "deviceId": "dcb78aae",
+            "name": "com.TobisARLectures.vuforiaexamples",
+            "processId": 11124,
+            "exited": true
+        },
+        {
+            "deviceId": "dcb78aae",
+            "name": "com.TobisARLectures.vuforiaexamples",
+            "processId": 12476,
+            "exited": true
+        },
+        {
+            "deviceId": "dcb78aae",
+            "name": "com.TobisARLectures.vuforiaexamples",
+            "processId": 13116,
+            "exited": true
+        },
+        {
+            "deviceId": "dcb78aae",
+            "name": "com.TobisARLectures.vuforiaexamples",
+            "processId": 13890,
             "exited": false
         }
     ],
