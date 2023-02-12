@@ -33,5 +33,9 @@ The Vuforia Engine offers a variety of AR features and most of those are covered
 
 ### Ground plane
 
+Recognizing the ground plane enables the placement of virtual 3D objects, like a robot.
+
+![](images/robot.gif)
+
 ## Unity Foundation
 
