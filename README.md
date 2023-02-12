@@ -27,6 +27,10 @@ The Vuforia Engine offers a variety of AR features and most of those are covered
 
 ### Model Targets
 
+Real objects can be recognized, tracked and overlayed with virtual assets. This can be helpful to display information which is not visible otherwise.
+
+![](images/model_target.gif)
+
 ### VuMarks
 
 ### Area Targets
