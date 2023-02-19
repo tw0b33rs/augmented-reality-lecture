@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.12.3">
+<ModelTarget name="BMW2erGranTourer" targetId="49153a7378484454968f71bab022457a" version="14.0" toolVersion="10.12.3" bbox="-0.909875 -0.154759 -0.686586 0.909875 0.542411 0.675784" previewImage="49153a7378484454968f71bab022457a_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="BMW2erGranTourers_assembly" assemblyId="6e228cf09db743e8b90e49a561993c1d">
+<Part name="BMW2erGranTourer" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.00323698 0.186575 2.08075" rotation="AD: 0.999879 0.0498886 -0.332815 196.172" image="BMW2erGranTourer_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="0.340002 0.22239 1.59542" rotation="AD: 0.999983 0.0308149 -0.195022 197.623" image="BMW2erGranTourer_GuideView_0001.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="-0.208028 0.401118 1.76302" rotation="AD: 0.999958 -0.0368021 0.259518 195.622" image="BMW2erGranTourer_GuideView_0002.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0003" translation="-0.00312369 0.427748 2.37215" rotation="AD: 0.999964 -0.0272816 0.326184 189.09" image="BMW2erGranTourer_GuideView_0003.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0004" translation="0.364358 0.311631 1.43535" rotation="AD: 0.999975 0.0301354 -0.241705 193.814" image="BMW2erGranTourer_GuideView_0004.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0005" translation="0.110662 0.222462 1.59095" rotation="AD: 1 -0.00657832 0.0400868 198.623" image="BMW2erGranTourer_GuideView_0005.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0006" translation="-0.235358 0.281786 1.5652" rotation="AD: 0.999951 -0.0410335 0.253185 197.844" image="BMW2erGranTourer_GuideView_0006.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0007" translation="0.580821 0.51908 1.84571" rotation="AD: 0.999864 0.0768847 -0.231782 215.722" image="BMW2erGranTourer_GuideView_0007.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0008" translation="0.566694 0.407219 1.64225" rotation="AD: 0.999864 0.0768847 -0.231782 215.722" image="BMW2erGranTourer_GuideView_0008.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0009" translation="0.505376 0.321693 1.70765" rotation="AD: 0.999814 0.0984069 -0.219739 227.056" image="BMW2erGranTourer_GuideView_0009.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0010" translation="0.501302 0.295352 1.83246" rotation="AD: 0.999995 0.0421255 -0.0860165 231.979" image="BMW2erGranTourer_GuideView_0010.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

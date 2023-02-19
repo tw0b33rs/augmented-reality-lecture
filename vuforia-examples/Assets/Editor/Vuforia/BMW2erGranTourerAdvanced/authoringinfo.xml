@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v5.7.6">
+        <ModelTarget name="BMW2erGranTourerAdvanced" targetId="8ea285313bc044cabf33c237da28ff29" version="13.0" toolVersion="v5.7.6" bbox="-0.909875 -0.154759 -0.686586 0.909875 0.542411 0.675784" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+    </TargetSet>
+    <Assembly name="BMW2erGranTourerAdvanced" assemblyId="7f65b3fdbd014725b5c978989ecc28a2">
+        <Part name="BMW2erGranTourerAdvanced" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>

@@ -19,7 +19,7 @@ EditorBuildSettings:
     guid: 16c6e138f0fba4d84a7397d3484c1142
   - enabled: 1
     path: Assets/Scenes/3-ModelTargets.unity
-    guid: 421f501bbc5ee425c9a55e71891ed263
+    guid: 61d19080603df4745ac37e70acf44ab3
   - enabled: 1
     path: Assets/Scenes/4-AreaTarget.unity
     guid: 7b46b6e3fc69f4069924dfee3169861e
@@ -38,4 +38,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/9-GroundPlaneRobotMovement.unity
     guid: 9169818ccff6d4143bf5c45f56333297
+  - enabled: 1
+    path: Assets/Scenes/30-ModelTargetsBMW.unity
+    guid: 216baf98208e34c87a8ee1dbf1778617
+  - enabled: 1
+    path: Assets/Scenes/31-AdvancedModelTargetsBMW.unity
+    guid: 421f501bbc5ee425c9a55e71891ed263
   m_configObjects: {}
