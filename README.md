@@ -7,6 +7,7 @@ This repository provides Augmented Reality examples based on AR Foundation and t
     - Android Build Support
     - iOS Build Support
 - IDE with C# support, e.g. [Visual Studio Code](https://code.visualstudio.com/docs/other/unity)
+- Blender
 - (optional) Vuforia license key
 
 ## Overview
